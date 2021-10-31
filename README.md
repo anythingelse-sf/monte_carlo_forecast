@@ -2,13 +2,12 @@
 
 # Financial Planning with APIs and Simulations
 
-In this Challenge, you’ll create two financial analysis tools by using a single Jupyter notebook:
+Two financial analysis tools by using a single Jupyter notebook:
 
-Part 1: A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
+Part 1: A financial planner to visualize current savings. The user can then determine if they have enough reserves for an emergency fund.
 
 Part 2: A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
-You’ll use the information from the Monte Carlo simulation to answer questions about the portfolio in your Jupyter notebook.
 
 # Business Needs
 Building a tool to help users evaluate their financial health
@@ -23,4 +22,4 @@ Building a tool to help users evaluate their financial health
 
 # Assumptions
 1. The average monthly household income = $12,000
-2. Each portfolio consists of Cryptocurrency, Stocks, and Bonds
+2. Each portfolio consists of select cryptocurrency, Stocks repesented by 'SPY', and Bonds represented by 'AGG'
