@@ -2,12 +2,11 @@
 
 # Financial Planning with APIs and Simulations
 
-Two financial analysis tools by using a single Jupyter notebook:
+Two part financial analysis tools by using a single Jupyter notebook:
 
-Part 1: A financial planner to visualize current savings. The user can then determine if they have enough reserves for an emergency fund.
+Part 1: A financial planner to visualize current savings as a percentage of the portfolio. The user can then determine if they have enough reserves for an emergency fund or another investment.
 
-Part 2: A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
-
+Part 2: A financial planner for retirement funds. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
 # Business Needs
 Building a tool to help users evaluate their financial health
