@@ -19,6 +19,11 @@ Building a tool to help users evaluate their financial health
     a. Forecast 30 years forward
     b. Use historical price data and random walk probablities
 
+# Question: Does weighting the portfolio more heavily to stocks allow the credit union members to retire after only 10 years?
+In this scenario and monte carlo simulation, it does.
+
+# Question: Using the current value of only the stock and bond portion of the member's portfolio and the summary statistics that you generated from the new Monte Carlo simulation, what are the lower and upper bounds for the expected value of the portfolio (with the new weights) with a 95% confidence interval?
+
 # Assumptions
 1. The average monthly household income = $12,000
 2. Each portfolio consists of select cryptocurrency, Stocks repesented by 'SPY', and Bonds represented by 'AGG'
